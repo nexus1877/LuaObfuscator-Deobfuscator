@@ -1,10 +1,10 @@
 {
-  "name": "leakd",
-  "version": "1.0.0",
+  "name": "oxygen-deobf",
+  "version": "2.0.0",
   "description": "deobfuscator",
   "main": "deobf.js",
   "bin": {
-    "leakd": "index.js"
+    "oxygen-deobf": "index.js"
   },
   "scripts": {
     "start": "node index.js"
