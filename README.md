@@ -1,11 +1,12 @@
-# LeakD Deobfuscator
+# oxygen Deobfuscator
 
 Static **LuaObfuscator** deobfuscator.
 
 Supports:
 - Chaotic Good
 - Chaotic Evil
-
+- Obfuscate v1
+  
 ## Usage
 
 ```bash
@@ -26,4 +27,4 @@ MIT licensed → [LICENSE](./LICENSE)
 
 ## Discord
 
-LeakD → [discord.gg/qteAQmfJmP](https://discord.gg/qteAQmfJmP)
+oxygen → [https://discord.gg/UyqEkAWng](https://discord.gg/UyqEkAWng)
